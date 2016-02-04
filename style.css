@@ -1,0 +1,41 @@
+#logoblanco {
+  height: 115px;
+  width: 340px;
+}
+
+#comofunciona {
+  background-color: #3AC4B6;
+  /*height: 140px;*/
+}
+
+.hero {
+  background-image: url(Naranjas.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 416px;
+  width: 100%;
+}
+
+#caja {
+  background-color: #F5F5EF;
+  height: 431px;
+}
+
+#mecatear {
+  background-color: #F5F5EF;
+  height: 431px;
+}
+
+#footeresnac {
+  background-color: #3AC4B6;
+}
+
+#logonegro {
+  height: 115px;
+  width: 340px;
+}
+
+#muffin {
+  height: 270px;
+  width: 270px;
+}
