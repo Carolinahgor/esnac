@@ -1,11 +1,14 @@
 #logoblanco {
-  height: 115px;
-  width: 340px;
+  height: 135px;
+  width: 380px;
 }
 
 #comofunciona {
   background-color: #3AC4B6;
-  /*height: 140px;*/
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  font-family: 'Lato', sans-serif;
 }
 
 .hero {
@@ -16,26 +19,134 @@
   width: 100%;
 }
 
-#caja {
-  background-color: #F5F5EF;
-  height: 431px;
+#masde30 {
+  padding-top: 100px;
+  /*padding-left: 100px;*/
+  font-family: 'Lato', sans-serif;
+  color: #444444;
 }
 
-#mecatear {
-  background-color: #F5F5EF;
-  height: 431px;
+#mejoreleccion {
+  padding-top: 80px;
+  padding-right: 100px;
+  font-family: 'Lato', sans-serif;
+  color: #444444;
 }
+
+#mejorheading {
+  font-family: 'Josefin Slab', serif;
+  font-size: 60px;
+}
+
+#caja {
+  background-color: #F5F5EF;
+}
+
+#cajaimagen {
+  padding-top: 30px;
+  padding-bottom: 90px;
+
+}
+
 
 #footeresnac {
   background-color: #3AC4B6;
+  height: 160px;
 }
 
 #logonegro {
   height: 115px;
   width: 340px;
+  margin-top: 25px;
 }
 
 #muffin {
-  height: 270px;
-  width: 270px;
+  height: 280px;
+  width: 280px;
+  margin-bottom: 50px;
+}
+
+.socialmedia {
+  height: 50px;
+  width: 50px;
+}
+
+.list-inline > li {
+  padding-left: 50px;
+}
+
+.btn-default {
+    background-color: #08B2E3;
+    color: white;
+    font-family: 'Josefin Slab', serif;
+}
+
+
+#directo {
+  padding-top: 65px;
+  padding-left: 155px;
+  font-family: 'Amatic SC', cursive;
+}
+
+.letradirecto {
+  font-size: 70px;
+}
+
+#bicicleta {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.redes {
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+
+#mecatear{
+  background-color: #F5F5EF;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  color: #FF5964;
+}
+
+#headingmecatear {
+  font-size: 80px;
+  font-family: 'Amatic SC', cursive;
+}
+
+#bottommecatear {
+  font-size: 50px;
+  font-family: 'Josefin Slab', serif;
+  color: #2A2D34;
+}
+
+#muffintexto {
+  font-family: 'Amatic SC', cursive;
+  font-size: 45px;
+}
+
+#banano {
+  font-family: 'Josefin Slab', serif;
+  color: #FACF2D;
+}
+
+#puerta {
+  font-family: 'Josefin Slab', serif;
+  color: #FF5964;
+}
+
+#casa {
+  color: #FF5964;
+}
+
+#una {
+  font-family: 'Amatic SC', cursive;
+}
+
+#cientotreinta {
+  margin-top: 40px;
+}
+
+#corazon {
+  margin-top: 25px;
 }
