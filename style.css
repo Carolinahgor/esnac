@@ -112,6 +112,7 @@
 #headingmecatear {
   font-size: 80px;
   font-family: 'Amatic SC', cursive;
+  margin-top: 50px;
 }
 
 #bottommecatear {
@@ -149,4 +150,12 @@
 
 #corazon {
   margin-top: 25px;
+}
+
+#turron {
+  padding-left: 220px;
+}
+
+#dip {
+  margin-left: -120px;
 }
