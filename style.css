@@ -51,7 +51,7 @@
 
 #footeresnac {
   background-color: #3AC4B6;
-  height: 160px;
+  height: 150px;
 }
 
 #logonegro {
@@ -162,4 +162,273 @@
 
 #chocolate {
   color: #603B23;
+}
+
+.divmenu {
+  background-color: #FF5964;
+}
+
+#logoblancommenu {
+  height: 135px;
+  width: 380px;
+}
+
+#titulomenu {
+ font-family: 'Amatic SC', cursive;
+ font-size: 60px;
+ color: #38618C;
+ margin-top: 70px;
+}
+
+#descripcionmenu {
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  margin-top: 30px;
+}
+
+#nuecesmixtas {
+  margin: 0 auto;
+  height: 290px;
+  border-style: solid;
+  border-color: black;
+  width: 800px;
+  margin-top: 60px;
+}
+
+#imagengranola {
+  margin-top: 25px;
+}
+ #pecanas {
+  margin-top: 98px;
+  margin-left: 35px;
+ }
+
+#mani {
+  margin-top: 92px;
+  margin-left: -60px;
+}
+ #textogranola {
+  margin-top: 50px;
+ }
+
+ #nueces {
+  font-family: 'Raleway', sans-serif;
+  color: #7D6C72;
+  font-weight: bold;
+  font-size: 40px;
+
+ }
+
+ #mixtas {
+  font-family: 'Shadows Into Light Two', cursive;
+  color: #69585F;
+  font-weight: bold;
+ }
+
+ .descripcion {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+ }
+
+ #minimuffindiv {
+  margin: 0 auto;
+  height: 290px;
+  border-style: solid;
+  border-color: black;
+  width: 800px;
+  margin-top: 60px;
+ }
+
+#minimuffinimg {
+  margin-top: 45px;
+}
+
+#mini {
+  font-family: 'Bad Script', cursive;
+}
+
+#muffins {
+  font-family: 'Josefin Slab', serif;
+  color: #1D8A99;
+  font-weight: bold;
+}
+
+#minimuffinheader {
+  margin-top: 70px;
+}
+
+#crispetas {
+  margin: 0 auto;
+  height: 290px;
+  border-style: solid;
+  border-color: black;
+  width: 800px;
+  margin-top: 60px;
+}
+
+#fotocrispeta {
+  margin-top: 40px;
+}
+
+#textocrispeta {
+  margin-top: 40px;
+  font-family: 'Coming Soon', cursive;
+  font-size: 50px;
+  color: #B33951;
+  margin-top: 75px;
+}
+
+#ilustracioncrispeta {
+  margin-top: 50px;
+}
+
+#divgarbanzo {
+  margin: 0 auto;
+  height: 290px;
+  border-style: solid;
+  border-color: black;
+  width: 800px;
+  margin-top: 60px;
+}
+
+#maizygarbanzotitulo {
+   font-family: 'Amatic SC', cursive;
+   color: #6FB1C6;
+   font-size: 60px;
+   margin-top: 50px;
+}
+
+#tostados {
+  font-family: 'Arvo', serif;
+}
+
+#fotogarbanzos {
+  margin-top: 30px;
+}
+
+#divgalletas {
+  margin: 0 auto;
+  height: 290px;
+  border-style: solid;
+  border-color: black;
+  width: 800px;
+  margin-top: 60px;
+}
+
+#fotogalletas {
+  margin-top: 43px;
+}
+
+#galletastexto {
+  font-family: 'Playfair Display', serif;
+  color: #D86E9F;
+  margin-top: 56px;
+  font-size: 50px;
+}
+
+#dipavena {
+  font-family: 'Coming Soon', cursive;
+  color: #E09891;
+}
+
+#plus {
+  font-family: 'Playfair Display', serif;
+}
+
+#divaolivos {
+  margin: 0 auto;
+  height: 290px;
+  border-style: solid;
+  border-color: black;
+  width: 800px;
+  margin-top: 60px;
+}
+
+#fotoaceitunas {
+  margin-top: 35px;
+}
+
+#olivostexto {
+  color: #313D5A;
+  font-family: 'Lobster Two', cursive;
+  font-size: 50px;
+  margin-top: 70px;
+}
+
+#marinadas {
+  color: #1E4654;
+  font-family: 'Alegreya', serif;
+  font-size: 45px;
+}
+
+#divbruschetta {
+  margin: 0 auto;
+  height: 290px;
+  border-style: solid;
+  border-color: black;
+  width: 800px;
+  margin-top: 60px;
+}
+
+#fotobruschetta {
+  margin-top: 50px;
+}
+
+#bruschettatexto {
+  font-family: 'Oldenburg', cursive;
+  margin-top: 70px;
+}
+
+#salt {
+  color: #2E86AB;
+}
+
+#almondsandcrunchy {
+  color: #6A5348;
+}
+
+#bs {
+  color: #F75A45;
+}
+
+#divchipsdeverduras {
+  margin: 0 auto;
+  height: 290px;
+  border-style: solid;
+  border-color: black;
+  width: 800px;
+  margin-top: 60px;
+}
+
+#fotoschips {
+  margin-top: 30px;
+}
+
+
+#textchips {
+  font-family: 'Old Standard TT', serif;
+  color: #439775;
+  margin-top: 70px;
+  margin-left: 70px;
+}
+
+#textoverduras {
+  font-family: 'Old Standard TT', serif;
+  color: #365843;
+  margin-left: 70px;
+}
+
+
+#rabano {
+  margin-top: 70px;
+}
+
+#verdurasrabano {
+  margin-left: 70px;
+}
+
+#footeresnacmenu {
+  background-color: #35A7FF;
+  height: 150px;
+  margin-top: 100px;
 }
